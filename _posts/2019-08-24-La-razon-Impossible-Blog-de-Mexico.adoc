@@ -1,7 +1,7 @@
 = La razón: Impossible Blog de México
 
-image::http://github.com/<ImpossibleBlog>/<impossibleblog.github.io>/images/<portda.png>[]
-:published_at: 2019-08-24
+:hp-image::http://github.com/<ImpossibleBlog>/<impossibleblog.github.io>/images/<portda.png>[]
+:published_at: 2017-10-10
 :hp-tags: Empresa, Fundación,
 :hp-alt-title: Impossible Box de México
 
