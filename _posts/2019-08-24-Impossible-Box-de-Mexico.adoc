@@ -1,0 +1,13 @@
+= La razón: Impossible Blog de México
+
+image::http://github.com/<ImpossibleBlog>/<impossibleblog.github.io>/images/<portda.png>[]
+:published_at: 2019-08-24
+:hp-tags: Empresa, Fundación,
+:hp-alt-title: Impossible Box de México
+
+Nacido bajo el nombre de **Imagina Scratch** en 2014 surge un concepto para agrupar ideas de contenido online de diversa índole, siempre utilizando software libre y tecnologías de reciente creación para la innovación de nuestros contenidos y en el proceso de producción de estos.
+
+Nuestra misión
+
+Colocar a nuestro lugar de origen como la punta de lanza en tecnológias de la información y la comunicación siempre orientado a la visión de la sociedad acerca de nuestros contenidos.
+
