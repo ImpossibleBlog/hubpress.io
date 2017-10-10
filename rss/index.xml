@@ -1,3 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Impossible Box Blog]]></title><description><![CDATA[Impossible Box Blog]]></description><link>https://ImpossibleBlog.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 10 Oct 2017 15:29:52 GMT</lastBuildDate><atom:link href="https://ImpossibleBlog.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El primer post de Impossible Blog]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Impossible Box Blog]]></title><description><![CDATA[Impossible Box Blog]]></description><link>https://ImpossibleBlog.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 10 Oct 2017 15:53:05 GMT</lastBuildDate><atom:link href="https://ImpossibleBlog.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[La razón: Impossible Blog de México]]></title><description><![CDATA[<div class="imageblock">
+<div class="content">
+<img src="http://github.com/<ImpossibleBlog>/<impossibleblog.github.io>/images/<portda.png>" alt="&lt;portda.png&gt;">
+</div>
+</div>
+<div class="paragraph">
+<p>Nacido bajo el nombre de <strong>Imagina Scratch</strong> en 2014 surge un concepto para agrupar ideas de contenido online de diversa índole, siempre utilizando software libre y tecnologías de reciente creación para la innovación de nuestros contenidos y en el proceso de producción de estos.</p>
+</div>
+<div class="paragraph">
+<p>Nuestra misión</p>
+</div>
+<div class="paragraph">
+<p>Colocar a nuestro lugar de origen como la punta de lanza en tecnológias de la información y la comunicación siempre orientado a la visión de la sociedad acerca de nuestros contenidos.</p>
+</div>]]></description><link>https://ImpossibleBlog.github.io/2019/08/24/Impossible-Box-de-Mexico.html</link><guid isPermaLink="true">https://ImpossibleBlog.github.io/2019/08/24/Impossible-Box-de-Mexico.html</guid><category><![CDATA[Empresa]]></category><category><![CDATA[Fundación]]></category><pubDate>Sat, 24 Aug 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[El primer post de Impossible Blog]]></title><description><![CDATA[<div class="paragraph">
 <p>Estoy impresionado con la facilidad de <strong>Hubpress</strong> y su versatilidad para la creación de blogs con software libre. También es impresionante que pueda usar <strong>Markdown</strong>.</p>
 </div>]]></description><link>https://ImpossibleBlog.github.io/2019/08/24/Code-snips.html</link><guid isPermaLink="true">https://ImpossibleBlog.github.io/2019/08/24/Code-snips.html</guid><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><pubDate>Sat, 24 Aug 2019 00:00:00 GMT</pubDate></item></channel></rss>
