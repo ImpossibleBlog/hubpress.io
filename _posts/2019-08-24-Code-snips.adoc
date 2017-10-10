@@ -1,0 +1,8 @@
+= El primer post de Impossible Blog
+:hp-image: /covers/cover.png
+:published_at: 2019-08-24
+:hp-tags: Blog, Open_Source,
+:hp-alt-title: Code snips
+
+
+Estoy impresionado con la facilidad de **Hubpress** y su versatilidad para la creación de blogs con software libre. También es impresionante que pueda usar **Markdown**.
