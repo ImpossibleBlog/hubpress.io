@@ -25,12 +25,12 @@
     ]
   },
   "site": {
-    "title": "",
+    "title": "Impossible Box Blog",
     "description": "",
     "logo": "",
     "cover": "",
     "delay": "",
-    "postsPerPage": "",
+    "postsPerPage": "5",
     "googleAnalytics": "",
     "disqus": ""
   },
